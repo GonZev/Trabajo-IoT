@@ -1,0 +1,5 @@
+POSIBLES PROYECTOS:
+
+1. ALARMA CONTRA INCENDIOS (¿detecta humo o temperatura?¿podemos apagar inmediatamente la electricidad del lugar?)
+2. ALARMA DESPERTADOR (alarma conectada a un objeto o realización de una acción para poder apagarla)
+3. LAMPARA O ALGUNA FUENTE DE LUZ QUE CAMBIE AUTOMÁTICAMENTE SEGÚN LA LUZ DEL AMBIENTE, PARA MEJORAR ILUMINACIÓN ¿no sé si haya algo parecido?.
